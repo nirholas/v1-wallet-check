@@ -1,0 +1,11 @@
+{
+  "slug": "v1-wallet-check",
+  "name": "V1 Wallet Check",
+  "kind": "tooling",
+  "description": "Detect whether an installed Wallet Standard wallet honestly advertises v1 signing.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
