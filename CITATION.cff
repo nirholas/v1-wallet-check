@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "v1-wallet-check"
+abstract: "Detect whether an installed Wallet Standard wallet honestly advertises v1 signing."
+repository-code: "https://github.com/nirholas/v1-wallet-check"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
