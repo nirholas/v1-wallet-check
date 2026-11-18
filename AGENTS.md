@@ -8,7 +8,7 @@ Detect whether an installed Wallet Standard wallet honestly advertises v1 signin
 
 - Source: https://github.com/nirholas/v1-wallet-check
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
